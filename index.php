@@ -15,6 +15,8 @@
 </html>
 
 <?php
+include("index.html");
+
 $username = $_POST["t1"];
 $password = $_POST["pw1"];
 if($username === "admin" && $password === "admin"){
